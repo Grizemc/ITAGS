@@ -1,2 +1,2 @@
 # RE-gaussian
-a novel framework for novel view synthesis.
+The code will be available.
