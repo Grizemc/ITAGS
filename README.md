@@ -1,2 +1,2 @@
-# RE-gaussian
-The code will be available.
+# Intrinsic Texture-Aware Gaussian Splatting
+The code will be available. Thanks!
